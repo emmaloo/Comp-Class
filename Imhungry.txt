@@ -1,0 +1,7 @@
+my_string = "I want chicken wings."
+
+print len(my_string)
+
+print my_string.upper()
+
+
